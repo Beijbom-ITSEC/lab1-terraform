@@ -19,7 +19,9 @@ Screenshot över terraform pipeline:
 
 
 
-Screenshot om att VM har skapats:
+Screenshot om att VM har skapats på Google Cloud.
+<img width="1309" height="48" alt="2026-03-12-085542_hyprshot" src="https://github.com/user-attachments/assets/d23f1fcc-2ccf-4c89-8532-672830eaa3c5" />
+
 
 
 
